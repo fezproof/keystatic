@@ -1,5 +1,55 @@
 # @voussoir/docs
 
+## 0.0.15
+
+### Patch Changes
+
+- 91857b9b: Update @react-aria/_, @react-stately/_, etc. to latest versions.
+- Updated dependencies [944dbe67]
+- Updated dependencies [8a9fa5f8]
+- Updated dependencies [91857b9b]
+- Updated dependencies [50105597]
+- Updated dependencies [9f16e062]
+  - @voussoir/text-field@0.1.9
+  - @voussoir/overlays@0.1.9
+  - @voussoir/drag-and-drop@0.1.3
+  - @voussoir/action-group@0.1.7
+  - @voussoir/number-field@0.1.7
+  - @voussoir/search-field@0.1.7
+  - @voussoir/breadcrumbs@0.1.11
+  - @voussoir/typography@0.1.7
+  - @voussoir/date-time@0.1.3
+  - @voussoir/list-view@0.1.8
+  - @voussoir/checkbox@0.2.7
+  - @voussoir/combobox@0.1.8
+  - @voussoir/nav-list@0.1.4
+  - @voussoir/progress@0.1.4
+  - @voussoir/listbox@0.1.7
+  - @voussoir/tooltip@0.1.5
+  - @voussoir/avatar@0.1.5
+  - @voussoir/button@0.2.1
+  - @voussoir/dialog@0.2.5
+  - @voussoir/editor@0.2.1
+  - @voussoir/layout@0.1.4
+  - @voussoir/notice@0.1.6
+  - @voussoir/picker@0.1.7
+  - @voussoir/switch@0.1.6
+  - @voussoir/badge@0.1.5
+  - @voussoir/field@0.1.7
+  - @voussoir/image@0.1.4
+  - @voussoir/radio@0.1.7
+  - @voussoir/slots@0.1.4
+  - @voussoir/style@0.1.7
+  - @voussoir/table@0.1.7
+  - @voussoir/toast@0.1.10
+  - @voussoir/types@0.1.3
+  - @voussoir/utils@2.0.4
+  - @voussoir/core@5.0.4
+  - @voussoir/icon@0.3.0
+  - @voussoir/link@0.1.6
+  - @voussoir/menu@0.1.6
+  - @voussoir/tabs@0.1.6
+
 ## 0.0.14
 
 ### Patch Changes

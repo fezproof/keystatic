@@ -1,5 +1,14 @@
 # @voussoir/utils
 
+## 2.0.4
+
+### Patch Changes
+
+- 91857b9b: Update @react-aria/_, @react-stately/_, etc. to latest versions.
+- Updated dependencies [91857b9b]
+  - @voussoir/style@0.1.7
+  - @voussoir/types@0.1.3
+
 ## 2.0.3
 
 ### Patch Changes

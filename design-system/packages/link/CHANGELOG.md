@@ -1,5 +1,16 @@
 # @voussoir/link
 
+## 0.1.6
+
+### Patch Changes
+
+- 91857b9b: Update @react-aria/_, @react-stately/_, etc. to latest versions.
+- Updated dependencies [91857b9b]
+  - @voussoir/typography@0.1.7
+  - @voussoir/style@0.1.7
+  - @voussoir/types@0.1.3
+  - @voussoir/utils@2.0.4
+
 ## 0.1.5
 
 ### Patch Changes

@@ -1,5 +1,23 @@
 # @voussoir/menu
 
+## 0.1.6
+
+### Patch Changes
+
+- 91857b9b: Update @react-aria/_, @react-stately/_, etc. to latest versions.
+- Updated dependencies [8a9fa5f8]
+- Updated dependencies [91857b9b]
+- Updated dependencies [50105597]
+  - @voussoir/overlays@0.1.9
+  - @voussoir/typography@0.1.7
+  - @voussoir/listbox@0.1.7
+  - @voussoir/button@0.2.1
+  - @voussoir/layout@0.1.4
+  - @voussoir/slots@0.1.4
+  - @voussoir/style@0.1.7
+  - @voussoir/utils@2.0.4
+  - @voussoir/icon@0.3.0
+
 ## 0.1.5
 
 ### Patch Changes

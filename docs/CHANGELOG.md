@@ -1,5 +1,16 @@
 # keystatic-docs
 
+## 1.0.5
+
+### Patch Changes
+
+- Updated dependencies [944dbe67]
+- Updated dependencies [91857b9b]
+- Updated dependencies [9f16e062]
+  - @keystatic/core@0.0.108
+  - @voussoir/progress@0.1.4
+  - @voussoir/core@5.0.4
+
 ## 1.0.4
 
 ### Patch Changes

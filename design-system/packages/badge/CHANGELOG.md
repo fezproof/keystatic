@@ -1,5 +1,17 @@
 # @voussoir/badge
 
+## 0.1.5
+
+### Patch Changes
+
+- 91857b9b: Update @react-aria/_, @react-stately/_, etc. to latest versions.
+- Updated dependencies [91857b9b]
+  - @voussoir/typography@0.1.7
+  - @voussoir/layout@0.1.4
+  - @voussoir/slots@0.1.4
+  - @voussoir/style@0.1.7
+  - @voussoir/utils@2.0.4
+
 ## 0.1.4
 
 ### Patch Changes

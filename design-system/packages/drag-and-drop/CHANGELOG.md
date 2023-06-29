@@ -1,5 +1,11 @@
 # @voussoir/drag-and-drop
 
+## 0.1.3
+
+### Patch Changes
+
+- 91857b9b: Update @react-aria/_, @react-stately/_, etc. to latest versions.
+
 ## 0.1.2
 
 ### Patch Changes

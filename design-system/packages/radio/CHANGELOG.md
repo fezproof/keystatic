@@ -1,5 +1,19 @@
 # @voussoir/radio
 
+## 0.1.7
+
+### Patch Changes
+
+- 91857b9b: Update @react-aria/_, @react-stately/_, etc. to latest versions.
+- Updated dependencies [91857b9b]
+  - @voussoir/typography@0.1.7
+  - @voussoir/layout@0.1.4
+  - @voussoir/field@0.1.7
+  - @voussoir/slots@0.1.4
+  - @voussoir/style@0.1.7
+  - @voussoir/utils@2.0.4
+  - @voussoir/core@5.0.4
+
 ## 0.1.6
 
 ### Patch Changes

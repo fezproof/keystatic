@@ -1,5 +1,24 @@
 # @voussoir/list-view
 
+## 0.1.8
+
+### Patch Changes
+
+- 91857b9b: Update @react-aria/_, @react-stately/_, etc. to latest versions.
+- 9f16e062: fix unwanted scrollbars, where appropriate
+- Updated dependencies [91857b9b]
+- Updated dependencies [50105597]
+  - @voussoir/drag-and-drop@0.1.3
+  - @voussoir/typography@0.1.7
+  - @voussoir/checkbox@0.2.7
+  - @voussoir/progress@0.1.4
+  - @voussoir/layout@0.1.4
+  - @voussoir/slots@0.1.4
+  - @voussoir/style@0.1.7
+  - @voussoir/utils@2.0.4
+  - @voussoir/core@5.0.4
+  - @voussoir/icon@0.3.0
+
 ## 0.1.7
 
 ### Patch Changes
